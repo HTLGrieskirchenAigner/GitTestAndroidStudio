@@ -21,6 +21,7 @@ public class MainActivity extends ActionBarActivity
     protected void onResume() {
         super.onResume();
         //some comment
+        // try again
     }
 
     @Override
