@@ -1,5 +1,7 @@
 package at.aigner.gittestandroidstudio;
 
+import java.util.Date;
+
 /**
  * Created by klaus on 03.05.2015.
  */
