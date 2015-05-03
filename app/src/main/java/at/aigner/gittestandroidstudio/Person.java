@@ -6,4 +6,6 @@ package at.aigner.gittestandroidstudio;
 public class Person {
     String firstname;
     String lastname;
+
+    int weight;
 }
