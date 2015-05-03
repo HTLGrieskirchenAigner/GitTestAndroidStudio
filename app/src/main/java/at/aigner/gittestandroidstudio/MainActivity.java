@@ -19,7 +19,7 @@ public class MainActivity extends ActionBarActivity
         setContentView(R.layout.activity_main);
         // change text
         tv = (TextView) findViewById(R.id.txt_hello);
-        tv.setText("Hallo Welt");
+        tv.setText("Hallo Welt und so weiter");
 
     }
 
